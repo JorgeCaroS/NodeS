@@ -1,0 +1,16 @@
+{
+  "name": "inventario",
+  "version": "1.0.0",
+  "description": "Actualizar Inventario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Caro",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "node-cron": "^2.0.3"
+  }
+}
